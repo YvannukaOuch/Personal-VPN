@@ -1,0 +1,2 @@
+# Client configs contain private keys. Never commit them.
+*.conf

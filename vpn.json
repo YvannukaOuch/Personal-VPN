@@ -1,0 +1,9 @@
+{
+  "server": {
+    "host": "auto",
+    "port": 51820,
+    "subnet": "10.8.0.0/24",
+    "dns": ["1.1.1.1", "1.0.0.1"]
+  },
+  "peers": ["my-laptop", "my-phone"]
+}
